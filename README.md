@@ -30,6 +30,11 @@ O projeto foi realizado para a disciplina 'SSC0180 – Eletrônica para Computa�
 * A ponte retificadora tem diodos que são responsáveis por permitir a passagem da corrente elétrica em uma única direção, pois eles “abrem” ou “fecham” de acordo com o ciclo da corrente alternada.
 * A ponte retificadora é chamada assim porque ela “retifica” a corrente alternada. A palavra “retificar” significa “tornar reto” ou “alinhar”, ou seja, a ponte retificadora acaba deixando “reta” a tensão alternada, que é a transformação para uma tensão contínua!
 
+## Diodo Zener
+* Regulador de tensão máxima. 
+* Somente conduz corrente quando a tensão que chegar alcança a tensão nominal do diodo, que no caso deste projeto, será 13v. 
+* Informalmente, o diodo Zener “trava” o valor da tensão em 13v, que é praticamente o valor de tensão máximo que queremos na saída da nossa fonte.
+
 ## Capacitador
 * O capacitor serve para armazenar temporariamente uma certa carga durante um período crescente da tensão e descarrega no período subsequente.
 * É responsável por carregar o sistema quando a tensão (vinda da ponte retificadora) está em declínio, estabilizando a tensão que vai para o restante do circuito e criando o "ripple".
@@ -42,10 +47,12 @@ O projeto foi realizado para a disciplina 'SSC0180 – Eletrônica para Computa�
 * Dispositivos eletrônicos que limitam a corrente elétrica em um circuito.
 
 ## Potenciômetro
-*
+* Serve para regular a voltagem que passará pelo transistor.
+* Através dele, é possível ajustar a tensão de acordo com o dispositivo conectado (3v e 12v).
 
 ## Transistor
-*
+* Serve para ajustar a corrente que será alimentada ao dispositivo.
+* Amplifica a corrente sem exigir que uma grande corrente passe pelo resistor ligado ao Zener.
 
 
 # Simulação no Tinkercad
