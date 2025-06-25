@@ -56,4 +56,5 @@ O projeto foi realizado para a disciplina 'SSC0180 – Eletrônica para Computa�
 
 
 # Simulação no Tinkercad
-![imagem da simulação](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/simulacao_tinkercad.gif)
+![imagem da simulação no tinkercad](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/simulacao_tinkercad.gif)
+![imagem da protoboard no tinkercad](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/tinkercad.png)
