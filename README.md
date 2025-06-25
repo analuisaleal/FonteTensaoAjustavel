@@ -46,3 +46,7 @@ O projeto foi realizado para a disciplina 'SSC0180 – Eletrônica para Computa�
 
 ## Transistor
 *
+
+
+# Simulação no Tinkercad
+![imagem da simulação](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/simulacao_tinkercad.gif)
