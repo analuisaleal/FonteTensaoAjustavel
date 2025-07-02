@@ -75,3 +75,7 @@ O projeto foi realizado para a disciplina 'SSC0180 – Eletrônica para Computa�
 ![imagem da pcb no software eagle](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/pcb_eagle.png)
 
 # Vídeo explicativo sobre o projeto
+
+# Vídeo do projeto funcionando
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5ApmxuuJzH0/0.jpg)](https://www.youtube.com/watch?v=5ApmxuuJzH0)
+
