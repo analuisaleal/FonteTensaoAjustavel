@@ -1,6 +1,6 @@
 # **Fonte de Tensão Ajustável**
 
-O projeto foi realizado para a disciplina 'SSC0180 – Eletrônica para Computação', ministrada pelo professor Eduardo do Valle Simões. Nele, busca-se projetar uma fonte de tensão ajustável entre 3v e 12v, com uma corrente de 100mA.
+O projeto foi realizado para a disciplina SSC0180 – Eletrônica para Computação, ministrada pelo professor Eduardo do Valle Simões. Nele, busca-se projetar uma fonte de tensão ajustável entre 3v e 12v, com uma corrente de 100mA.
 
 # Alunos
   * Ana Luísa Pereira da Silva Leal
@@ -62,10 +62,10 @@ O projeto foi realizado para a disciplina 'SSC0180 – Eletrônica para Computa�
 
 # Imagens do projeto
 
-# Circuito no Falstad
+# Circuito no [Falstad](https://tinyurl.com/2dosffb5)
 ![imagem do circuito no falstad](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/circuit-20250701-2335.png)
 
-# Protoboard no Tinkercad
+# Protoboard no [Tinkercad](https://www.tinkercad.com/things/7VXsnYJjJHd/editel?sharecode=w57tWOb4NJN6HoT7D2qI_L2Vyk_1-6ecHmtl5RlK11Q)
 ![imagem da protoboard no tinkercad](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/Fonte%20de%20Tens%C3%A3o%20Ajust%C3%A1vel.png)
 
 # Esquemático no Eagle
@@ -75,7 +75,7 @@ O projeto foi realizado para a disciplina 'SSC0180 – Eletrônica para Computa�
 ![imagem da pcb no software eagle](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/pcb_eagle.png)
 
 # Vídeo explicativo sobre o projeto
+[![video no yt](https://img.youtube.com/vi/TMMmDAmHWtc/0.jpg)](https://www.youtube.com/watch?v=TMMmDAmHWtc)
 
-# Vídeo do projeto funcionando
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5ApmxuuJzH0/0.jpg)](https://www.youtube.com/watch?v=5ApmxuuJzH0)
-
+# Agradecimentos
+♡ Agradecemos ao excelentíssimo professor Eduardo do Vale Simões, e ao incrível monitor Kaita por oferecerem todo o suporte necessário para que fosse possível concluir o projeto. ♡
