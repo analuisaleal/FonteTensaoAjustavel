@@ -24,6 +24,7 @@ O projeto foi realizado para a disciplina 'SSC0180 – Eletrônica para Computa�
 | Diodo Zener 13V  1W = 1N4743 SEMTECH | 1 |  R$ 0,50 |
 | Total || R$25,80 |
 
+## Cálculo dos Componentes
 
 ## Diodos
 * Os diodos são dispositivos semicondutores que permitem a passagem de corrente elétrica em apenas uma direção.
@@ -54,7 +55,13 @@ O projeto foi realizado para a disciplina 'SSC0180 – Eletrônica para Computa�
 * Serve para ajustar a corrente que será alimentada ao dispositivo.
 * Amplifica a corrente sem exigir que uma grande corrente passe pelo resistor ligado ao Zener.
 
+# Circuito no Falstad
 
-# Simulação no Tinkercad
-![imagem da simulação no tinkercad](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/simulacao_tinkercad.gif)
+# Protoboard no Tinkercad
 ![imagem da protoboard no tinkercad](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/tinkercad.png)
+
+# Schematic no Eagle
+
+# PCB no Eagle
+
+
