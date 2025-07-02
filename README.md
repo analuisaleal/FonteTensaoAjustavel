@@ -56,12 +56,15 @@ O projeto foi realizado para a disciplina 'SSC0180 – Eletrônica para Computa�
 * Amplifica a corrente sem exigir que uma grande corrente passe pelo resistor ligado ao Zener.
 
 # Circuito no Falstad
-! [imagem do circuito no falstad](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/circuit-20250701-2335.png)
+![imagem do circuito no falstad](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/circuit-20250701-2335.png)
+
 # Protoboard no Tinkercad
-![imagem da protoboard no tinkercad](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/tinkercad.png)
+![imagem da protoboard no tinkercad](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/Fonte%20de%20Tens%C3%A3o%20Ajust%C3%A1vel.png)
 
 # Esquemático no Eagle
-! [imagem do esquemático no software eagle](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/schematic_eagle.png)
-# PCB no Eagle
-! [imagem da pcb no software eagle](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/pcb_eagle.png)
+![imagem do esquemático no software eagle](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/schematic_eagle.png)
 
+# PCB no Eagle
+![imagem da pcb no software eagle](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/pcb_eagle.png)
+
+# Vídeo explicativo sobre o projeto
