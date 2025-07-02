@@ -25,6 +25,7 @@ O projeto foi realizado para a disciplina 'SSC0180 – Eletrônica para Computa�
 | Total || R$25,80 |
 
 ## Cálculo dos Componentes
+![imagem dos calculos](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/C%C3%A1lculos%20do%20projeto%20.jpg)
 
 ## Diodos
 * Os diodos são dispositivos semicondutores que permitem a passagem de corrente elétrica em apenas uma direção.
@@ -54,6 +55,8 @@ O projeto foi realizado para a disciplina 'SSC0180 – Eletrônica para Computa�
 ## Transistor
 * Serve para ajustar a corrente que será alimentada ao dispositivo.
 * Amplifica a corrente sem exigir que uma grande corrente passe pelo resistor ligado ao Zener.
+
+# Imagens do projeto
 
 # Circuito no Falstad
 ![imagem do circuito no falstad](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/circuit-20250701-2335.png)
