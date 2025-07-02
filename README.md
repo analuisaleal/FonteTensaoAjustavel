@@ -25,7 +25,11 @@ O projeto foi realizado para a disciplina 'SSC0180 – Eletrônica para Computa�
 | Total || R$25,80 |
 
 ## Cálculo dos Componentes
-![imagem dos calculos](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/C%C3%A1lculos%20do%20projeto%20.jpg)
+![imagem dos calculos](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/calc0.jpeg)
+![imagem dos calculos](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/calc01.jpeg)
+![imagem dos calculos](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/calc2.jpeg)
+![imagem dos calculos](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/calc3.jpeg)
+![imagem dos calculos](https://github.com/analuisaleal/FonteTensaoAjustavel/blob/main/calc4.jpeg)
 
 ## Diodos
 * Os diodos são dispositivos semicondutores que permitem a passagem de corrente elétrica em apenas uma direção.
